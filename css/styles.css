@@ -105,6 +105,14 @@ a:hover {
     height: 150px;
 }
 
+.kubernetes-image {
+    float: left;
+    mix-blend-mode: multiply;
+    padding-right: 20px;
+    width: 150px;
+    height: 150px;
+}
+
 .linkedin-image {
     margin-top: 10px;
     width: 5%;
